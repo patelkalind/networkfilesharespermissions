@@ -19,8 +19,16 @@ This tutorial outlines the implementation of file sharing between administrators
 - Windows 10 (21H2)
 
 <h2>Recap</h2>
-Network file shares are basically servers assigning permission to the client computer with certain categories such as “Read & Write”, “Read Only”, and “No Access”. Administrators can assign permissions by individual or by groups. 
-In this exercise, there will be a demonstration on what to assign for each group. Make sure to have DC-1 and Client-1 VMs from the previous labs turned on before starting.
+
+In Part 2, we configured DNS using the DC-1 and Client-1 VMs from the first part of the Active Directory lab, where we showed how to change a DNS address and how to ping and flush the DNS cache using PowerShell. 
+
+This officially concludes the Active Directory series on Network File Shares and Permissions.
+
+<h2>Deployment and Configuration Steps</h2>
+
+Network file shares are servers that assign permissions to client computers in categories such as “Read & Write”, “Read Only”, and “No Access”. Administrators can assign permissions to individuals or groups. 
+
+In this exercise, we will demonstrate what to assign for each group. Make sure DC-1 and Client-1 VMs from the previous labs are turned on before starting.
 
 Create Sample File Shares with Various Permissions
 Connect/log into DC-1 as your domain admin account (mydomain.com\jane_admin)

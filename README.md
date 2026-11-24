@@ -1,5 +1,5 @@
 <p align="center">
-<img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE8PstcPGgZTuEczosANbV4nyHV3wakk2yB2XObdv0Dg&s=10](https://storage.ghost.io/c/e1/89/e189dda3-b4ad-485b-b170-49b8fbc25bd1/content/images/2025/04/azure-file-share.svg)" />
+<img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE8PstcPGgZTuEczosANbV4nyHV3wakk2yB2XObdv0Dg&s=10](https://storage.ghost.io/c/e1/89/e189dda3-b4ad-485b-b170-49b8fbc25bd1/content/images/2025/04/azure-file-share.svg)"/>
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure) - Part 3 (Network File Shares and Permissions)</h1>
